@@ -1,0 +1,16 @@
+/Users/monkdevs/Projects/Assignments/Assignments/bin/Debug/net5.0/Assignments
+/Users/monkdevs/Projects/Assignments/Assignments/bin/Debug/net5.0/Assignments.deps.json
+/Users/monkdevs/Projects/Assignments/Assignments/bin/Debug/net5.0/Assignments.runtimeconfig.json
+/Users/monkdevs/Projects/Assignments/Assignments/bin/Debug/net5.0/Assignments.runtimeconfig.dev.json
+/Users/monkdevs/Projects/Assignments/Assignments/bin/Debug/net5.0/Assignments.dll
+/Users/monkdevs/Projects/Assignments/Assignments/bin/Debug/net5.0/Assignments.pdb
+/Users/monkdevs/Projects/Assignments/Assignments/obj/Debug/net5.0/Assignments.csproj.AssemblyReference.cache
+/Users/monkdevs/Projects/Assignments/Assignments/obj/Debug/net5.0/Assignments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monkdevs/Projects/Assignments/Assignments/obj/Debug/net5.0/Assignments.AssemblyInfoInputs.cache
+/Users/monkdevs/Projects/Assignments/Assignments/obj/Debug/net5.0/Assignments.AssemblyInfo.cs
+/Users/monkdevs/Projects/Assignments/Assignments/obj/Debug/net5.0/Assignments.csproj.CoreCompileInputs.cache
+/Users/monkdevs/Projects/Assignments/Assignments/obj/Debug/net5.0/Assignments.dll
+/Users/monkdevs/Projects/Assignments/Assignments/obj/Debug/net5.0/refint/Assignments.dll
+/Users/monkdevs/Projects/Assignments/Assignments/obj/Debug/net5.0/Assignments.pdb
+/Users/monkdevs/Projects/Assignments/Assignments/obj/Debug/net5.0/Assignments.genruntimeconfig.cache
+/Users/monkdevs/Projects/Assignments/Assignments/obj/Debug/net5.0/ref/Assignments.dll
